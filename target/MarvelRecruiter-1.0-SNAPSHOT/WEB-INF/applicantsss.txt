@@ -1,0 +1,6 @@
+
+Applicant{name=Yusef, email=yislaih71@gmail.com, iq=Greater Than 180, beverage=Cola, superPower=[Flight, Mind Control, Coding], score=90, passOrFail=PASS}
+Applicant{name=Prof. Sun, email=Sun@sun.com, iq=Less Than 120, beverage=Wine, superPower=[Coding], score=25, passOrFail=FAIL}
+Applicant{name=Yusef, email=yislaih71@gmail.com, iq=Less Than 120, beverage=Wine, superPower=[N/A], score=25, passOrFail=FAIL}
+Applicant{name=Yusef, email=yislaih71@gmail.com, iq=151 to 180, beverage=Juice, superPower=[Super Strength, Flight], score=75, passOrFail=PASS}
+Applicant{name=Yusef, email=yislaih71@gmail.com, iq=Less Than 120, beverage=Juice, superPower=[Super Strength, Flight], score=45, passOrFail=FAIL}
